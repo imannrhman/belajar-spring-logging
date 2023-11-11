@@ -1,0 +1,2 @@
+2023-11-08T22:30:56.174+07:00  WARN 3260 --- [main] i.belajarspringlogging.LoggingTest       : Belajar Spring
+2023-11-08T22:30:56.185+07:00 ERROR 3260 --- [main] i.belajarspringlogging.LoggingTest       : Belajar Spring 2023
